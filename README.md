@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h2 align="center">Hi there, I'm <a href="https://t.me/medved_bambykov" target="_blank">Anatoly</a> 👋</h2>
+  
++ 🔭 I’m currently working on [MTS](https://mts.ru/)
++ 🌱 I’m currently learning [practicum.yandex](https://practicum.yandex.ru/data-analyst/)
 <!--
 **AnatolyKuzmin/AnatolyKuzmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
