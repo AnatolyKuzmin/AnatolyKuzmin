@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm <a href="https://t.me/medved_bambykov" target="_blank">Anatoly</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-<div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></div>
+<div align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFleTVwNXBrZDJmbDRoMHVhYzh1em54dTJ5ajQ2NW42cXY2Zmp6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" width="600" height="300"/></div>
 
 ---
 + 🔭 I’m work as an analyst and have an interest in programming languages
